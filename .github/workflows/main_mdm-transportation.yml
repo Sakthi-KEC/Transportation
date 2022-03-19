@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'MDM-Transportation'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_506C3F057EE842E5BA6DC0DD1CBFEC77 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E2ECB8B8944435F89736B080143CA1E }}
           package: '*.jar'
